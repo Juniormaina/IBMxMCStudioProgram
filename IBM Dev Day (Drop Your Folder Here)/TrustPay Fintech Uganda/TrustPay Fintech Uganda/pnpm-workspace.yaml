@@ -1,7 +1,0 @@
-packages:
-  - client
-  - server
-
-allowBuilds:
-  '@tailwindcss/oxide': set this to true or false
-  esbuild: true
